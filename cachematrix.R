@@ -1,5 +1,5 @@
-## The two functions below makeCacheMatrix and cacheSolve 
-## go hand in hand in calculating the inverse of a marix
+## The two functions below makeCacheMatrix and cacheSolve go hand in hand in calculating the inverse of a marix
+## This inverse calculator assumes that the input is an invertible matrix
 
 ## makeCacheMatrix sets the matrix input, function solve to calcultae the inverse matrix, and save it to cache 
 
